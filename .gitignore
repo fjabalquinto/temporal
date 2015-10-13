@@ -1,2 +1,4 @@
 #-- Archivos SASS ------------
 scss/*
+.sass-cache/
+*.css.map
